@@ -7,8 +7,6 @@
 	* auto-pairs: `git clone git://github.com/jiangmiao/auto-pairs.git ~/.vim/bundle/auto-pairs`
 
 #### (2).backup for hadoop ####    
-* change $JAVA_HOME in hadoop-env.sh
+* change `$JAVA_HOME` in hadoop-env.sh
 * SEE DIR `hadoop`
-
-#### (3).backup for /etc/profile ####
-* SEE FILE `profile_back`
+* backup for /etc/profile : SEE FILE `/hadoop/profile_back`
